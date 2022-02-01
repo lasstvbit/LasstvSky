@@ -46,7 +46,7 @@ http://angels.red:80/live/185780/186277/100464.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1458419886447812608/dqLGO5bA_400x400.jpg" group-title="Canais | Filmes",Sportv
 http://angels.red:80/live/185780/186277/100677.m3u8
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/5/53/Rede_Globo_Logo_1996.png/revision/latest/scale-to-width-down/500?cb=20161205101601" group-title="Canais | Aberto",Rede Globo
-https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
+https://live-cm-al-13-38.video.globo.com/nu/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere-590x2951.jpg" group-title="Canais | Esportes",Premier fc
 https://xmanga.xyz/premiereclube/video.m3u8?token=a46735c7d5f5d056cca8d3044c1e250947a5d787-47bb8d9475568aeefbe9b34667bd8e3a-1638858655-1638847855&remote=179.158.119.77
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-hits-logo-59F5BBACBB-seeklogo.com.png" group-title="Canais | Filmes e Séries",Star Hits
